@@ -1,4 +1,4 @@
-# final411
+# final 411
 
 Final project of MiniMax algorithm. 
 compile using std=c++17
